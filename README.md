@@ -1,4 +1,6 @@
+![Untitled design(1)](https://github.com/brettmorrisonAO5ANNEX/unify/assets/49254129/b1b09a5b-b623-40e0-b385-e9b7fc01e0c1)
 # unify 
+
 ### an image processing application
 - Project Foundation: basic image processing environment (upload, analyze, save user chosen images)
 - Project Goal: expand by adding features as I learn more about topics in image processing
