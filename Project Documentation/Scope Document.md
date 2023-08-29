@@ -22,6 +22,8 @@ Python, HTML, CSS, JavaScript, OpenCV, scikit-learn/TensorFlow/PyTorch (ML speci
   - Object classification/detection
   - Resizing/enhancement (GAN)
   - Object removal/image extension (restoration)
+  - special feature:
+	- edge -> image (user draws an outline of the object they want, image is generated from outline)
 - Video analysis (beyond single frames)
   - Motion tracking (?)
   - Stabilization 
