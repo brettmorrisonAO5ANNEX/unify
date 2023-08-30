@@ -1,5 +1,4 @@
-![image (in)](https://github.com/brettmorrisonAO5ANNEX/unify/assets/49254129/5ffa4b47-1390-4142-a5e9-99c5798e3425)
-
+![image (in) (2)](https://github.com/brettmorrisonAO5ANNEX/unify/assets/49254129/06fbdbdd-5f5d-4525-8cca-3de8ef87e39a)
 ### an image processing application
 - Project Foundation: basic image processing environment (upload, analyze, save user-chosen images)
 - Project Goal: expand by adding features as I learn more about topics in image processing
